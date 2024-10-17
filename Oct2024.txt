@@ -468,3 +468,87 @@ window - perspective - others - git
 
 ************************************************************************************
 
+Class - important thing, through which we perform some task. Class may contains methods and variables
+
+Method1 - A work
+Method2 - B work
+Method3 - C work ( A work + some other work = method1 + some other work)
+
+redundant - repeatable 
+reuse
+No. of line will reduce 
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Variables
+
+Variables - shape and count/name
+shape - datatype 
+
+
+
+Syntax:-
+	AccessModifier datatype variableName = variableValue
+	public int a = 10;
+	private String b = "xyz";
+	
+	people red = 10;
+	people orange = "Sathya";
+	
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+Datatype: Its a classification of a data, which tells the compiler or interpreter 
+about how the programmer intends to use the data.
+
+1) Primitive
+	a) boolean - yes or no OR true or false 
+		* boolean aa = true; --> Variable declared and initialized
+		* boolean ab;  --> Variable declared but not initiated.
+			- default value will be assigned to ab is "false";
+		* boolean cc;
+			cc = true;
+	
+	b) Textual 
+		1) char - a, b, c, A, B
+			* char ba = 'a';
+			* char bb = '1';
+			* default value of char is null;
+		2) byte - 
+			byte x = 10;
+	c) numeric 
+		1) int 
+			* int cc = 10;
+			* default value = 0;
+		2) short
+			* short dd = 20;
+			* default value = 0;
+		3) double
+			* double ee = 30d;
+			* default value = 0;
+		4) long
+			* long ff = 20l;
+			* default value = 0;
+		5) float
+			* float gg = 2.5f;
+			* default value = 0;
+
+2) Non Primitive
+	d) String - In java, String is a Non-Primitive data type but at the same time its a Class.
+		* String hh = "aA10@";
+		* String ii = "In java, String is a Non-Primitive data type but at the same time its a Class.";
+		* String jj = "null";
+		* default = null;
+	e) array
+	
+int a; - declare
+a = 10; - define/initiate/assign
+int a = 10 - declare and initiate
+
+int a = 10;
+deafult - access modifier
+int - data type( primitive --> numeric)
+a - variable/variableName;
+10 - value posses by the variable/ value pointed by the variable
+
+If you want 10, you need to call 'a' only. 
+
