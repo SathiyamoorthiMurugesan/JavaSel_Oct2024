@@ -1,6 +1,6 @@
 package A1basicsOfJava;
 
-public class CreatingClasses {
+public class A1CreatingClasses {
 
 	
 	public class DemoA {
